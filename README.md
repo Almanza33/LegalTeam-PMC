@@ -13,8 +13,9 @@
 - **LegalTeam/** - Configuraciones generales del proyecto Django.
 - **scraper/** - Scripts y tareas de scraping para la monitorización de casos.
 - **notifications/** - Configuración de notificaciones para los usuarios.
-- **analysis/** - Manejo de la IA y análisis de documentos.
+- **DocAnalysis/** - Manejo de la IA y análisis de documentos.
 - **frontend/** - (Opcional) Plantillas y archivos estáticos para la interfaz.
+- **analysis/** - DEPRECATED Manejo de la IA y análisis de documentos.
 
 ## Modelo de Lenguaje Adaptado (LLM)
 
